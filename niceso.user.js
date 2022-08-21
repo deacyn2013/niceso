@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         优化niceso页面显示效果
+// @name         使niceso更便捷的打开阿里云盘
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.2.1
 // @description  免去阿里云盘登录账户、可以直接打开阿里云盘APP、去除分享弹窗
 // @author       zyaa
 // @match        *://www.niceso.fun/*
